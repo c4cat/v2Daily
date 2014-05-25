@@ -1,0 +1,12 @@
+{
+  "name": "v2Daily",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "request": "*",
+    "cheerio": "*"
+  }
+}
